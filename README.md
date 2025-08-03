@@ -1,4 +1,4 @@
-# Minesweeper AI - Unsupervised Machine Learning Project
+# Minesweeper AI - Unsupervised Machine Learning Project (Under Progress)
 
 A well-structured Minesweeper implementation designed for unsupervised machine learning research. The project uses good OOP principles with a matrix-based board representation for easy ML integration.
 
